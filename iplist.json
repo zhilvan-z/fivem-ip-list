@@ -1,0 +1,23 @@
+{
+  "hosts": {
+    "metrics.fivem.net":" 188.114.99.0 ",
+	"registry-internal.fivem.net":" 51.159.38.75 ",
+	"status.fivem.net":" 104.18.39.159 ",
+	"synapse.fivem.net":" 51.15.3.102 ",
+	"status.cfx.re":" 13.32.27.88 ",
+	"users.cfx.re":" 51.91.137.120 ",
+	"content.cfx.re":" 172.64.153.85 ",
+	"sentry.fivem.net":" 104.18.39.159 ",
+	"runtime.fivem.net":" 104.18.39.159 ",
+	"lambda.fivem.net":" 172.64.148.97 ",
+	"changelogs-live.fivem.net":" 172.64.148.97 ",
+	"servers-frontend.fivem.net":" 172.64.148.97 ",
+	"cnl-hb-live.fivem.net":" 172.64.148.97 ",
+	"policy-live.fivem.net":" 104.18.39.159 ",
+	"keymaster.fivem.net":" 104.18.39.159 ",
+    "myip.is":"0"
+  },
+  "successm":"حال 5 دقیقه فرصت دارید وارید بازی شوید ، برنامه به صورت خودکار پس از 5 دقیقه بسته خواهد شد ، درصوت بسته شدن برنامه تغیرات به حالت عادی باز میگردد",
+  "version":"1.0",
+  "closeval":5
+}
